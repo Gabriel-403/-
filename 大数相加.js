@@ -16,4 +16,4 @@ let bigInt = function (a, b){
     }
     return res
 }
-console.log(bigInt("11111111111111111111111111","1111111111111111111111"))
+console.log(bigInt("11111111111111111111","111111111111111111"))
